@@ -18,7 +18,7 @@ npm run dev
 
 ### Screenshots
 
-#### 1. Create GET /api/products?page=1&limit=1
+#### 1. Create GET /api/products?page=1&limit=10
 
 ![npm run dev](docs/nodejs-tugas-10-1.png)
 
